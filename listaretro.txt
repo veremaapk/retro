@@ -1,0 +1,142 @@
+
+cata:"http://diskokosmiko.mx/FLAYSINA/sitges-serie-catalana-completa-42555" name:"Sitges";
+cata:"http://diskokosmiko.mx/FLAYSINA/cites-catalan-42432" name:"Cites";
+cata:"http://diskokosmiko.mx/FLAYSINA/kubala-moreno-manchon-catalan-completa-42329" name:"Kubala Moreno Manchon";
+cata:"http://diskokosmiko.mx/FLAYSINA/nit-i-dia-catalan-completa-42328" name:"Nit i Dia";
+cata:"http://diskokosmiko.mx/FLAYSINA/lo-cartanya-catalan-completa-42326" name:"Lo Cerdanya";
+cata:"http://diskokosmiko.mx/FLAYSINA/plats-bruts-catalan-completa-42279" name:"Plats Bruts";
+cata:"http://diskokosmiko.mx/FLAYSINA/polseres-vermelles-catalan-completa-42273" name:"Polseres Vermelles";
+cata:"http://diskokosmiko.mx/FLAYSINA/secrets-de-familia-catalan-completa-42267" name:"Secrets De Familia";
+cata:"http://diskokosmiko.mx/FLAYSINA/teresina-s-a-completa-serie-catalan-42248" name:"Teresina S.A";
+cata:"http://diskokosmiko.mx/FLAYSINA/nissaga-de-poder-catalan-42242" name:"Nissaga de Poder";
+cata:"http://diskokosmiko.mx/FLAYSINA/el-crac-idioma-catalan-40053" name:"El Crac";
+cata:"http://diskokosmiko.mx/FLAYSINA/merli-idioma-catalan-1-2-completas-39801" name:"Merli";
+cata:"http://diskokosmiko.mx/lokario1/magnum-pi-temporadas-12345678-15957" name:"magnum Pi";
+cata:"http://diskokosmiko.mx/jml/twilight-zone-720p-catalan-latino-ingles-subs-28214" name:"Twilight Zone";
+
+
+
+80:"Ochentame Otra Vez" src="http://copiapop.com/inicial/ochentame-otra-vez-54806/list,1,5";
+
+compa:"Compañeros" src="http://copiapop.com/Robex69/companeros-74816/list,1,8";
+
+vigil:"Temporada 1" src="http://copiapop.com/Cuspide/los-vigilantes-de-la-playa-t1-74069/list,1,2";
+vigil:"Temporada 2" src="http://copiapop.com/Cuspide/los-vigilantes-de-la-playa-t2-74093/list,1,2";
+vigil:"Temporada 3" src="http://copiapop.com/Cuspide/los-vigilantes-de-la-playa-t3-74267/list,1,2";
+vigil:"Temporada 4" src="http://copiapop.com/Cuspide/los-vigilantes-de-la-playa-t4-74268/list,1,2";
+vigil:"Temporada 5" src="http://copiapop.com/Cuspide/los-vigilantes-de-la-playa-t5-74269/list,1,2";
+vigil:"Temporada 6" src="http://copiapop.com/Cuspide/los-vigilantes-de-la-playa-t6-75977/list,1,1";
+vigil:"Temporada 7" src="http://copiapop.com/Cuspide/los-vigilantes-de-la-playa-t7-76221/list,1,1";
+vigil:"Temporada 8" src="http://copiapop.com/Cuspide/los-vigilantes-de-la-playa-t8-76222/list,1,1";
+
+
+histo:"Historias Para No Dormir" src="http://copiapop.com/Catoal/historias-para-no-dormir-73190/list,1,2";
+
+ala:"El Ala Oeste de la Casa Blanca" src="http://copiapop.com/Catoal/el-ala-oeste-de-la-casa-blanca-73197/list,1,6";
+
+alfr:"alfred Hitchcock Presenta" src="http://copiapop.com/Txarly/alfred-hitchcock-presenta-64647/list,1,4";
+
+nor:"Norte y Sur" src="http://copiapop.com/Cuspide/norte-y-sur-completa-53976/list,1,1";
+
+kun:"Kung-Fu" src="http://copiapop.com/Cuspide/kung-fu-serie-54900/list,1,2";
+
+inva:"Los Invasores" src="http://copiapop.com/Cuspide/los-invasores-serie-54899/list,1,2";
+
+pajaro:"El Pajaro Espino" src="http://copiapop.com/Cuspide/el-pajaro-espino-completa-53306/list,1,1";
+
+sando:"Sandokan" src="http://copiapop.com/Cuspide/sandokan-t1t2-completas-52204/list,1,1";
+
+rai:"Raises" src="http://copiapop.com/Cuspide/raices-t1completa-52203/list,1,1";
+
+cami:"Los Camioneros" src="http://copiapop.com/Cuspide/los-camioneros-completa-52196/list,1,1";
+
+doctor:"Doctor En Alaska" src="http://copiapop.com/Cuspide/doctor-en-alaska-t1at6-completa-52192/list,1,10";
+
+harre:"Los Hombres de Harrelson" src="http://copiapop.com/Cuspide/los-hombres-de-harrelson-t1t2-c-52181/list,1,10";
+
+logan:"La Fuga de Logan" src="http://copiapop.com/Cuspide/la-fuga-de-logan-completa-52138/list,1,10";
+
+angel:"Los Angeles De Charlie" src="http://copiapop.com/Cuspide/los-angeles-de-charlie-t1ct2inc-52130/list,1,10";
+
+5:"Los Cinco" src="http://copiapop.com/Cuspide/los-cinco-t1t2-completas-52128/list,1,10";
+
+rico:"Hombre Rico Hompre Pobre" src="http://copiapop.com/Cuspide/hombre-rico-hombre-pobre-t1t2completas-52126/list,1,10";
+
+halcon:"El Halcon Callejero" src="http://copiapop.com/Cuspide/el-halcon-callejero-t-unicacompleta-51814/list,1,10";
+
+trueno:"El trueno Azul" src="http://copiapop.com/Cuspide/el-trueno-azul-t-unicacompleta-51813/list,1,10";
+
+tunel:"El Tunel del Tiempo" src="http://copiapop.com/Cuspide/el-tunel-del-tiempo-t-unicacompleta-51807/list,1,10";
+
+86:"SuperAgente 86" src="http://copiapop.com/Cuspide/superagente-86-t1at5-completas-51764/list,1,10";
+
+star:"Starsky Hutch" src="http://copiapop.com/Cuspide/starsky-hutch-t1yt2-c-t3yt4-inc-51692/list,1,10";
+
+corru:"Corrupcion en Miami" src="http://copiapop.com/Cuspide/corrupcion-en-miami-t1at5-c-51691/list,1,10";
+
+miss:"Mission Impossible" src="http://copiapop.com/Cuspide/mission-impossible-t1at7-completa-51678/list,1,8";
+
+sea:"Saquest" src="http://copiapop.com/Cuspide/seaquest-t1at3-completa-51673/list,1,10";
+
+coche:"El Coche Fantastico" src="http://copiapop.com/Cuspide/el-coche-fantastico-t1at4-completa-51665/list,1,10";
+
+treck:"Star Treck" src="http://copiapop.com/Cuspide/star-trek-tos-t1at3-completa-51656/list,1,10";
+
+stee:"Remington Steele" src="http://copiapop.com/Cuspide/remington-steele-t1at5-completa-51654/list,1,10";
+
+luz:"Luz de Luna" src="http://copiapop.com/Cuspide/luz-de-luna-t1at5-completa-51649/list,1,10";
+
+man:"Automan" src="http://copiapop.com/Cuspide/automan-t-unicacompleta-49816/list,1,10";
+
+who:"Doctor Who" src="http://copiapop.com/gosseyn/doctor-who-59017/list,1,5";
+
+per:"Perdidos en el Espacio" src="http://copiapop.com/Catoal/perdidos-en-el-espacio-68980/list,1,10";
+
+sopra:"Los Soprano" src="http://copiapop.com/minhus/series-esp-los-soprano-57347/list,1,10";
+
+cosas:"Cosas de Casa" src="http://copiapop.com/minhus/series-esp-cosas-de-casa-56988/list,1,10";
+
+prince:"El Principe de Bell Air" src="http://copiapop.com/minhus/series-esp-el-principe-de-bell-air-56756/list,1,2";
+
+sabri:"Sabrina Cosas de Brujas" src="http://copiapop.com/aisha/sabrina-cosas-de-brujas-59893/list,1,10";
+
+hostal:"Hostal Royal Manzanares" src="http://copiapop.com/aisha/hostal-royal-manzanares-64877/list,1,10";
+
+er:"Er Urgencias" src="http://copiapop.com/aisha/er-urgencias-castellano-56320/list,1,5";
+
+dino:"Dinosaurios" src="http://copiapop.com/Irumhi/dinosaurios1991-70042/list,1,11";
+
+ex:"Expediente X" src="http://copiapop.com/Koba1994/expediente-x-38411/list,1,10";
+
+crip:"Historia de la Cripta" src="http://copiapop.com/Koba1994/historias-de-la-cripta-37183/list,1,10";
+
+paco:"Los Hombre de Paco" src="http://copiapop.com/Cuspide/los-hombres-de-paco-53979/list,1,10";
+
+pipi:"Pipi Calzaslargas" src="http://copiapop.com/Cuspide/pipi-calzaslargas-t1completa-52139/list,1,10";
+
+bella:"Mi Bella Genio" src="http://copiapop.com/JorFer32/mi-bella-genio-57329/list,1,10";
+
+cuent:"Cuentos Asombrosos" src="http://copiapop.com/mikyliky/amazing-stories-cuentos-asombrososcompleta-67126/list,1,10";
+
+oro:"Los Cuentos del Mono de Oro" src="http://copiapop.com/Cuspide/los-cuentos-del-mono-de-oro-serie-54572/list,1,10";
+
+gala:"Galactica Estrella de Combate" src="http://copiapop.com/Cuspide/galactica-estrella-de-combate-completa-53558/list,1,10";
+
+juz:"Juzgado de guardia" src="http://copiapop.com/Koba1994/juzgado-de-guardia-69654/list,1,10";
+
+limi:"Mas Alla del Limite" src="http://copiapop.com/skyraider/mas-alla-del-limite-62163/list,1,10";
+
+allo:"Allo Allo" src="http://copiapop.com/gosseyn/allo-allo-t-1-9-56497/list,1,10";
+
+enre:"Enredo" src="http://copiapop.com/gosseyn/enredo-t-1-4-56338/list,1,10";
+
+quar:"Quark La escoba Espacial" src="http://copiapop.com/gosseyn/quark-la-escoba-espacial-57905/list,1,10";
+
+sank:"Sankukai" src="http://copiapop.com/Catoal/sankukai-73180/list,1,10";
+
+ano:"Disfruta de esta serie" src="http://copiapop.com/aisha/aquellos-maravillosos-anos-83652/list,1,5";
+
+hombre:"Disfruta de esta serie" src="http://copiapop.com/mix/un-hombre-en-casa-1973-76-79006/list,1,2";
+
+marvel:"Pelis MARVEL" src="http://copiapop.com/Koba1994/marvel-peliculas-independientes-47398/list,1,2";
+marvel:"Pelis DC" src="http://copiapop.com/Koba1994/dc-peliculas-independientes-47390/list,1,2";
